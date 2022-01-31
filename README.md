@@ -6,13 +6,13 @@ A very simple Blockchain created  with node.js and typescript.
 
 ## Final Result ✨✨🤹🏽‍💁🏽‍♀️
 <p align="center">
-  <img src="https://github.com/JustARandomDude4/Sat-sBlockChain/blob/main/ScreenShots/bc2.PNG" width="800 title="Final Results">
+  <img src="https://github.com/JustARandomDude4/Sat-sBlockChain/blob/main/ScreenShots/bc2.PNG" width="800" title="Final Results">
 </p>
 
 
 ## How I made 📋
 * Step1 :
-> Create and initialise a new node.js project :
+> Create and initialize a new node.js project :
 ```
 npm init
 npm install -D typescript @types/nodes
@@ -20,10 +20,10 @@ npm install node
 ```
 * Step 2:
 > Create a  new file, 'tsconfig.json'. In this add the compilerOptions, to tell the compiler how it should compile the .ts files. (copy paste my tsocnfig.json file)
-> Now in the package.json file, and create a script-
+> Now in the package.json file, and create a script called dev-
 ```
 dev :tsc-w"    
-// this is added with -w which is a watch flaa, to tell constantly compile our code to plain js
+// this is added with -w which is a watch flag, to tell constantly compile our code to plain js
 ```
 >Create an index.ts file
 
@@ -41,9 +41,9 @@ You can see in the picture below :
 
 * Step 4:
 > The each of the 4 classes are clearly explained in the pdf below : 
-<p>
-[<b>Sat'sBlockChain Pdf Explanation</b>](https://github.com/JustARandomDude4/Sat-sBlockChain/blob/main/Satwi's%20Blockchain.pdf)
-</p>
+
+[Sat_BlockChain_Pdf_Explanation](https://github.com/JustARandomDude4/Sat-sBlockChain/blob/main/Satwi's%20Blockchain.pdf/)
+
 * Step 5:
 > Now compile and run the file
 ```
@@ -51,8 +51,8 @@ npm run dev
 node .
 ```
 ## CheckOut my other BlockChain realted projects:
-[MemEthereum](https://github.com/JustARandomDude4/MemEthereum)
-[MintNftBot](https://github.com/JustARandomDude4/Mint_Nft_Bot)
+  [MemEthereum](https://github.com/JustARandomDude4/MemEthereum/)
+  [MintNftBot](https://github.com/JustARandomDude4/Mint_Nft_Bot/)
 
 ## 🔗Contributing 💡
 
