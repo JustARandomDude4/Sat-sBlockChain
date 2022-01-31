@@ -18,7 +18,7 @@ npm init
 npm install -D typescript @types/nodes
 npm install node
 ```
-*Step 2:
+* Step 2:
 > Create a  new file, 'tsconfig.json'. In this add the compilerOptions, to tell the compiler how it should compile the .ts files. (copy paste my tsocnfig.json file)
 > Now in the package.json file, and create a script-
 ```
@@ -27,7 +27,7 @@ dev :tsc-w"
 ```
 >Create an index.ts file
 
-*Step 3:
+* Step 3:
 > Now my Basic structure is to have 4 different classes. 
 >>  1. Transaction
 >>  2. Block
@@ -36,15 +36,15 @@ dev :tsc-w"
 
 You can see in the picture below :
 <p align="center">
-  <img src="https://github.com/JustARandomDude4/Sat-sBlockChain/blob/main/ScreenShots/bc1.PNG" width="800 title="Final Results">
+  <img src="https://github.com/JustARandomDude4/Sat-sBlockChain/blob/main/ScreenShots/bc1.PNG" width="800" title="Final Results">
 </p>
 
-*Step 4:
+* Step 4:
 > The each of the 4 classes are clearly explained in the pdf below : 
 <p>
 [<b>Sat'sBlockChain Pdf Explanation</b>](https://github.com/JustARandomDude4/Sat-sBlockChain/blob/main/Satwi's%20Blockchain.pdf)
 </p>
-*Step 5:
+* Step 5:
 > Now compile and run the file
 ```
 npm run dev
