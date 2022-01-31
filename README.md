@@ -1,8 +1,8 @@
-# Satwi's BlockChain
+# Satwi's BlockChain⚡
 
-Made with ❤ on 2 cups allam chai and a cup of filter coffee  
+Made with ❤ on 2 cups allam chai and a cup of filter coffee. 
 
-A very simple Blockchain created  with node.js and typescript.
+A very simple BlockChain created  with node.js and typescript.
 
 ## Final Result ✨✨🤹🏽‍💁🏽‍♀️
 <p align="center">
@@ -42,7 +42,7 @@ You can see in the picture below :
 * Step 4:
 > The each of the 4 classes are clearly explained in the pdf below : 
 
-[Sat_BlockChain_Pdf_Explanation](https://github.com/JustARandomDude4/Sat-sBlockChain/blob/main/Satwi's%20Blockchain.pdf/)
+[Satwi's BlockChain_Pdf_Explanation](https://github.com/JustARandomDude4/Sat-sBlockChain/blob/main/Satwi's%20Blockchain.pdf/)
 
 * Step 5:
 > Now compile and run the file
@@ -51,15 +51,16 @@ npm run dev
 node .
 ```
 ## CheckOut my other BlockChain realted projects:
-  [MemEthereum](https://github.com/JustARandomDude4/MemEthereum/)
-  [MintNftBot](https://github.com/JustARandomDude4/Mint_Nft_Bot/)
+  [MemEthereum](https://github.com/JustARandomDude4/MemEthereum/)<br/>
+  [MintNftBot](https://github.com/JustARandomDude4/Mint_Nft_Bot/)<br/>
 
 ## 🔗Contributing 💡
 
-If you can help me add more features . Please don't hesitate to open an [pull request](https://github.com/JustARandomDude4/Sat-sBlockChain/pulls) or facing any problem create [issue](https://github.com/JustARandomDude4/Sat-sBlockChain/issues) here.
+If you can help me add more features . Please don't hesitate to open an [pull request](https://github.com/JustARandomDude4/Sat-sBlockChain/pulls) or <br/>
+facing any problem create [issue](https://github.com/JustARandomDude4/Sat-sBlockChain/issues) here.
 
 ## 🔗Contact me 📲📤
-  If u find  any errors in the code, or want to enquire on how to download, pls don't mind to ping me :))
- [My gmail](satwikakatragadda444@gmail.com)
+  If u find  any errors in the code, or want to enquire on how to download, pls don't mind to ping me :))<br/>
+ [My gmail](satwikakatragadda444@gmail.com)<br/>
  [My Linkedin](https://www.linkedin.com/in/khs4/)
 
