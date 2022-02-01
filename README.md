@@ -50,7 +50,7 @@ You can see in the picture below :
 npm run dev
 node .
 ```
-## CheckOut my other BlockChain realted projects:
+## CheckOut my other BlockChain related projects:
   [MemEthereum](https://github.com/JustARandomDude4/MemEthereum/)<br/>
   [MintNftBot](https://github.com/JustARandomDude4/Mint_Nft_Bot/)<br/>
 
